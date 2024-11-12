@@ -1,0 +1,11 @@
+.first {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.second {
+    background-color: yellow;
+    font-size: 40px;
+}
