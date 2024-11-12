@@ -1,0 +1,20 @@
+.text {
+    background-color: pink;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.cool {
+    font-size: 60px;
+}
+
+#two {
+    color: blue;
+    font-size: 80px;
+}
+
+#four {
+    background-color: green;
+    font-size: 70px;
+    font-weight: bold;
+}
